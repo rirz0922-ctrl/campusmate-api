@@ -15,9 +15,15 @@ def get_notices():
     return {
         "notices": [
             {
-                "title": "테스트 공지입니다",
+                "title": "2026학년도 수강신청 안내",
                 "category": "학사",
-                "date": "2026-06-06",
+                "date": "2026-06-01",
+                "url": "https://plus.cnu.ac.kr"
+            },
+            {
+                "title": "국가장학금 신청 안내",
+                "category": "장학",
+                "date": "2026-05-30",
                 "url": "https://plus.cnu.ac.kr"
             }
         ]
